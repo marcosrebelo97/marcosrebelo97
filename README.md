@@ -4,7 +4,7 @@
 - :memo: Pergunte-me sobre **Java, JPA, POO, SQL, H2 Database..**
 
 <h3 align="left">Conecte-se comigo::</h3>
-  <a href = "marcosrebelo9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "marcosrebelo9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-guerreiro-rebelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </a></p><h3 align="left">Linguagens e Ferramentas:
