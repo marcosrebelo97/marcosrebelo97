@@ -1,7 +1,7 @@
 # <h1 align="center">Olá 👋, me chamo Marcos Guerreiro Rebelo</h1><h3 align="center">Sou desenvolvedor de software e estudante de Ciência da Computação na UFAM</h3> 
 - 👩‍💻 No momento estou aprendendo **Java Web, SpringBoot, Microservices..**
 
-- :memo: Pergunte-me sobre **Java, JPA, POO, SQL, H2 Database..**
+- :memo: Pergunte-me sobre **Java, JPA, POO, SQL, Python..**
 
 <h3 align="left">Conecte-se comigo::</h3>
   <a href = "marcosrebelo9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
