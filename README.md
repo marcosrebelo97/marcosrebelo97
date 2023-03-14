@@ -1,5 +1,5 @@
 # <h1 align="center">Olá 👋, me chamo Marcos Guerreiro Rebelo</h1><h3 align="center">Sou desenvolvedor de software e estudante de Ciência da Computação na UFAM</h3> 
-- 👩‍💻 No momento estou aprendendo **Java Web, SpringBoot, Microservices..**
+- 👩‍💻 No momento estou aprendendo **Java Web, Spring Boot, Microservices..**
 
 - :memo: Pergunte-me sobre **Java, JPA, POO, MySQL, Python..**
 
