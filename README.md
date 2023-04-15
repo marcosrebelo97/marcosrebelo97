@@ -1,5 +1,3 @@
-### Olá, me chamo Marcos..
-
 <h4 align="left">Conecte-se comigo: </h4>
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
