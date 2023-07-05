@@ -6,7 +6,10 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api?username=marcosrebelo97&theme=blue-green)
   
- ![Trinity GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosrebelo97&theme=blue-green)
+ <div align="left">
+  <a href="https://github.com/marcosrebelo97">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosrebelo97&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
  
 </a></p><h4 align="left">Linguagens e Ferramentas:</h3>
