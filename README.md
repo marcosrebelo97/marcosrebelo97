@@ -3,6 +3,10 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-guerreiro-rebelo/)
 
+<h3 align="left">AI & Agents</h3>
+
+<p align="left">Claude Code · MCP (Model Context Protocol) · LLM APIs · prompt engineering · autonomous agents gated by objective evidence: tests, type-checking and AI code review</p>
+
 </a></p><h3 align="left">Languages ​​and Tools</h3>
 
 <p align="left">
