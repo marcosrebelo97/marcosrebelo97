@@ -5,9 +5,14 @@
 
 <h3 align="left">AI & Agents</h3>
 
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 <p align="left">Claude Code · MCP (Model Context Protocol) · LLM APIs · prompt engineering · autonomous agents gated by objective evidence: tests, type-checking and AI code review</p>
 
-</a></p><h3 align="left">Languages ​​and Tools</h3>
+<h3 align="left">Languages ​​and Tools</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
